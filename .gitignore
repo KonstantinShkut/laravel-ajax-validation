@@ -1,6 +1,8 @@
-/vendor
-/nm
-/node_modules
+**/.*
+node_modules
+bower_components
+test
+tests
 .idea
 .DS_Store
 __MACOSX
