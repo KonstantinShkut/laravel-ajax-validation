@@ -1,0 +1,21 @@
+{
+  "name": "laravel-ajax-validation",
+  "homepage": "https://github.com/KonstantinShkut/laravel-ajax-validation",
+  "authors": [
+    "Konstantin Shkut <Konstantin.Shkut@gmail.com>"
+  ],
+  "description": "Laravel ajax validation made easy",
+  "main": "dist/jquery.laravelAjaxValidation.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "jQuery#~2.1.4"
+  }
+}
