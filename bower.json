@@ -13,7 +13,18 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+
+    "resources",
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json"
   ],
   "dependencies": {
     "jquery": "jQuery#~2.1.4"

@@ -4,12 +4,19 @@
         var th = this;
 
         var settings = $.extend({
+            // Show error list before the form
             showErrorList: false,
+            // Show errors next to inputs
             showInlineErrors: true,
+            // Hide form and display success message
             hideFormAfterSuccess: true,
+            // Disable form submission after first successful submission
             disableReSubmit: true,
+            // Rename submit button during submission
             progressButton: '<i class="fa fa-spinner fa-pulse"></i> &nbsp; Submitting',
+            // Rename submit button after failed submission
             retryButton: 'Try again',
+            // Rename submit button after successful submission
             doneButton: '<i class="fa fa-check"></i> &nbsp; Done'
         }, options);
 
