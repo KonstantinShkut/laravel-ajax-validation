@@ -2,11 +2,9 @@
 
 Have you ever dreamed about having ajax validation without repeating all of the validation rules you have in your controller already in your views with some special plugins for validation? Have you ever gotten really upset while going back and forth between your controllers, views, and javascript files updating validation rules spread across your entire Laravel project? Well, guess what? Your dreams come true, and you can finally say goodbye to your pain!
 
-<!--
 # Demo
 
-Add demo here`1
- -->
+![demo](demo.gif "demo")
 
 # Features
 
