@@ -4,7 +4,7 @@ Have you ever dreamed about having ajax validation without repeating all of the 
 
 # Demo
 
-![demo](demo.gif "demo")
+![demo](resources/demo.gif "demo")
 
 # Features
 
