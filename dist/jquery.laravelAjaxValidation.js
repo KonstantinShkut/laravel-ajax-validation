@@ -140,7 +140,7 @@
                     this.el.html(html);
                     return this;
                 }
-            },
+            }
         };
 
         $(this).on('submit',function(e){
