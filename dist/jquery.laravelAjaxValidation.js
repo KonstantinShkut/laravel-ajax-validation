@@ -69,7 +69,7 @@
 
                     if (settings.showInlineErrors) {
                         $(element)
-                            .closest('.form-group')
+                            .parent()
                             .append('<label class="error" for="'+field+'">'+error+'</label>');
                     }
                 });
